@@ -1,0 +1,33 @@
+.section-1{
+    background-color: #62D074;
+}
+.section-2{
+    background-color: aqua;
+}
+.section-3{
+    background-color: #D63582;
+}
+.section-4{
+    background-color: #25C9AB;
+}
+.section-5{
+    background-color: #AF2BC5;
+}
+.section-6{
+    background-color:#2CC6E8;
+}
+.box-nome{
+    height: 300px;
+}
+.box{
+    height: 300px;
+    background-color: gray;
+}
+.box-2{
+    height: 300px;
+    background-color: gray;
+}
+.box-3{
+    height: 50px;
+    background-color: gray;
+}
